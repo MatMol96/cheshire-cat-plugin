@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Testnuvolith",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
-    "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
+    "description": "Description of testnuvolith.",
+    "author_name": "Met",
+    "author_url": "https://cat.metlabs.cloud",
+    "plugin_url": "https://github.com/MatMol96/cheshire-cat-plugin.git",
     "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "thumb": ""
 }
